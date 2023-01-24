@@ -7,7 +7,7 @@
 <li>💾 In my spare time i like to learn programming</li>
 <h2></h2>
 <h4 align="left">📚 Languages:</h4>
-<img align="right" alt="coding" width="420" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
+<img align="right" alt="coding" height="300" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="left"> 
 <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"> 
 <a href="https://www.javascript.com/"><img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
