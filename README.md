@@ -3,7 +3,7 @@
 
 <li>🎓 Graduate of the Gdańsk University of Technology in the field of Electronics and Telecommunications</li>
 <li>📡 Specializing in Radio communication Systems and Networks</li>
-<li>💵 Currently working as an IT specialist and Network Administrator</li>
+<li>💵 I am currently working as a Network and Systems Administrator and Cybersecurity Specialist.</li>
 <li>💾 In my spare time i like to learn programming</li>
 <h2></h2>
 <h4 align="left">📚 Languages:</h4>
